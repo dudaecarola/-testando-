@@ -30,3 +30,8 @@ header {
 #title svg:hover {
   color: var(--gray-300);
 }
+
+#jobInfo {
+  display: grid;
+  grid-template-columns: 70% 1fr;
+}
